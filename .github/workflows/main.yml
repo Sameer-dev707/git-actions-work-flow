@@ -2,7 +2,8 @@ name: sameer hassan
 
 on:
   push: 
-    branches: [ main ]
+    branches:
+      - main
     
 jobs:
   demo:
